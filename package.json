@@ -1,0 +1,18 @@
+{
+  "name": "issuu-dl",
+  "description": "Downloader for Issuu",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.1.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.10.0"
+  }
+}
